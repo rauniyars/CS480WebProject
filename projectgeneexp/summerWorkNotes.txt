@@ -1,0 +1,40 @@
+Date: 1 July 2019
+# note: please update this document with any links that you find to be helpful in your work.
+
+
+Data bases:
++ Uniprot protein database: https://www.uniprot.org/
++ Gene expression data: https://portal.gdc.cancer.gov/
+
+
+Information:
++ Introduction to DNA Microarrays: https://bitesizebio.com/7206/introduction-to-dna-microarrays/
++ Database for investigating types of cancers (tumors): https://www.cell.com/pb-assets/consortium/pancanceratlas/pancani3/index.html
++ Protein function and gene expression database: https://www.proteinatlas.org/humanproteome/tissue/cancer#alteredproteins
++ Gene expression profiling interactive analysis: http://gepia.cancer-pku.cn/index.html
++ Cell line analysis: https://depmap.org/portal/
+
++ Pattern Recognition and Machine Learning: https://dzone.com/articles/machine-learning-and-pattern-recognition
++ Details on Clustering: https://www-users.cs.umn.edu/~kumar001/dmbook/ch8.pdf
++ K-means and PCA: http://delivery.acm.org/10.1145/1020000/1015408/p262-ding.pdf?ip=141.195.255.17&id=1015408&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E8BFE97D7B60D9F36%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1562611315_585f71356152984782bc9fedd058ba6f
++ Detailed K-Means Clustering Video: https://www.youtube.com/watch?v=dWy_VVepxMQ
++ Simple Explanation of Hierarchical Clustering (genes and sample): https://www.youtube.com/watch?v=7xHsRkOdVwo
+
+Programming libraries:
++ Bioconductor for R: https://www.bioconductor.org/
++ Plotly graphing: https://plot.ly/python/
++ Bokeh plotting: https://bokeh.pydata.org/en/latest/
++ Model building libraries (machine learning, regression, etc): https://scikit-learn.org/stable/
+
+
+Tutorials for Machine Learning:
++ What is Machine Learning: https://www.youtube.com/watch?v=LvIa0-ZKCrc&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj  (note: this tutorial comes from a javascript channel but the ML algorithms are still explained nicely.)
+
+
++ General ML: https://www.dataquest.io/blog/sci-kit-learn-tutorial/
++ General ML: https://www.datacamp.com/community/tutorials/machine-learning-python
++ General ML and reference: https://scikit-learn.org/stable/tutorial/index.html
++ General ML and reference: https://scikit-learn.org/stable/presentations.html#external-tutorials
++ Machine Learning With Scikit-Learn (Video): https://www.youtube.com/watch?v=0Lt9w-BxKFQ
++ Python for Data Science Training (Video): https://www.youtube.com/watch?v=bwZ3Qiuj3i8
++ Informational: Python Machine learning with SKLearn Tutorial for Investing (Video): https://www.youtube.com/watch?v=URTZ2jKCgBc
